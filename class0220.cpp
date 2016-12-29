@@ -1,9 +1,3 @@
-/********************************************
-    C for Engineers
-    Feb 20, 2014
-    Instructor : Mr. Nishantha Randunu
-
-/********************************************/
 #include <iostream>
 #include <iomanip>
 

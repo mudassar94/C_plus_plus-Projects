@@ -2,8 +2,6 @@
 #include <cmath>
 #define pi 3.14159265359
 
-// EEL 2161, Spring 2014, Homework 3, Muhammad Mudassar
-
 using namespace std;
 
 int main()

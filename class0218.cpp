@@ -1,9 +1,3 @@
-/********************************************
-    C for Engineers
-    Feb 18, 2014
-    Instructor : Mr. Nishantha Randunu
-
-/********************************************/
 #include <iostream>
 
 using namespace std;

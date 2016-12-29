@@ -3,8 +3,6 @@
 #include <cmath>
 using namespace std;
 
-// EEL 2161, Spring 2014, Homework 4, Muhammad Mudassar
-
 int main()
 {
     // Question 1
